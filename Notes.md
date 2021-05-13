@@ -1,0 +1,1 @@
+dotnet pack ./src/Mimir.Elm.Regex.fsproj -c Release
